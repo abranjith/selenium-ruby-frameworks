@@ -9,5 +9,5 @@ Before run:
 Make sure Chrome driver exe is in your PATH. Feel free to use different browsers
 Change username and password in the program to your own
 
-Run (from command prompt:
+Run (from command prompt):
 ruby gmail_unread_message_count_watir.rb
